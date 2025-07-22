@@ -3,15 +3,15 @@ I'm Grant, A Freelance Software Developer. I help agencies, startups, and indivi
 
 <ul>
     <li>
-        <a href="/website-development" title="Website Development Services">Website Design &amp; Development</a> - Custom websites designed to fit your brand, optimized for
+        <a href="https://grant-bartlett.com/website-development" title="Website Development Services">Website Design &amp; Development</a> - Custom websites designed to fit your brand, optimized for
         performance, and built with scalability in mind.
     </li>
-    <li><a href="/web-app-development" title="Web App Development">Web App Development</a> - Robust, feature-rich web applications for startups and enterprises.</li>
-    <li><a href="/mobile-app-development" title="Mobile App Development">Mobile App Development</a> - Cross-platform mobile apps using React Native for iOS and Android.
+    <li><a href="https://grant-bartlett.com/web-app-development" title="Web App Development">Web App Development</a> - Robust, feature-rich web applications for startups and enterprises.</li>
+    <li><a href="https://grant-bartlett.com/mobile-app-development" title="Mobile App Development">Mobile App Development</a> - Cross-platform mobile apps using React Native for iOS and Android.
     </li>
-    <li><a href="/laravel-development" title="Laravel development services">Laravel Development</a> - Scalable, secure backend solutions with Laravel.</li>
-    <li><a href="/react-developers" title="React JS development services">React JS Development</a> - Modern, fast, and responsive frontends built with React.</li>
-    <li><a href="/react-native-developers" title="React Native development">React Native Development</a> - Cross-platform mobile apps built with React Native for
+    <li><a href="https://grant-bartlett.com/laravel-development" title="Laravel development services">Laravel Development</a> - Scalable, secure backend solutions with Laravel.</li>
+    <li><a href="https://grant-bartlett.com/react-developers" title="React JS development services">React JS Development</a> - Modern, fast, and responsive frontends built with React.</li>
+    <li><a href="https://grant-bartlett.com/react-native-developers" title="React Native development">React Native Development</a> - Cross-platform mobile apps built with React Native for
         native-like performance.</li>
 </ul>
 
