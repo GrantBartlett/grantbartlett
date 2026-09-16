@@ -1,40 +1,23 @@
 ## Hey 👋
-I'm Grant, A Freelance Software Developer. I help agencies, startups, and individuals stand out by creating exceptional websites, mobile apps, and digital experiences. Based in Surrey, I work with clients in London and internationally, providing flexible, tailored solutions for every project.
+I'm Grant, co-founder of **[Storm Digital](https://storm.digital/)**. We're a tight-knit, Surrey-based team with over 25 years combined experience, helping start-ups, agencies and global corporates turn ideas into web, mobile, AR/VR and AI experiences. We're hands-on at every stage, working with clients across London and internationally.
 
 <ul>
     <li>
-        <a href="https://grant-bartlett.com/website-development" title="Website Development Services">Website Design &amp; Development</a> - Custom websites designed to fit your brand, optimized for
-        performance, and built with scalability in mind.
+        <a href="https://storm.digital/web-design-surrey" title="Website Design Services">Website Design &amp; Development</a>: custom websites designed to fit your brand, optimised for
+        performance and built with scalability in mind.
     </li>
-    <li><a href="https://grant-bartlett.com/web-app-development" title="Web App Development">Web App Development</a> - Robust, feature-rich web applications for startups and enterprises.</li>
-    <li><a href="https://grant-bartlett.com/mobile-app-development" title="Mobile App Development">Mobile App Development</a> - Cross-platform mobile apps using React Native for iOS and Android.
+    <li><a href="https://storm.digital/bespoke-software-development-surrey" title="Bespoke Software Development">Web App &amp; Bespoke Software Development</a>: robust, custom-built applications for start-ups and enterprises.</li>
+    <li><a href="https://storm.digital/react-native-app-development-company" title="React Native Development">Mobile App Development</a>: cross-platform iOS and Android apps built with React Native.
     </li>
-    <li><a href="https://grant-bartlett.com/laravel-development" title="Laravel development services">Laravel Development</a> - Scalable, secure backend solutions with Laravel.</li>
-    <li><a href="https://grant-bartlett.com/react-developers" title="React JS development services">React JS Development</a> - Modern, fast, and responsive frontends built with React.</li>
-    <li><a href="https://grant-bartlett.com/react-native-developers" title="React Native development">React Native Development</a> - Cross-platform mobile apps built with React Native for
-        native-like performance.</li>
+    <li><a href="https://storm.digital/laravel-development-agency" title="Laravel Development Agency">Laravel Development</a>: scalable, secure backend systems built with Laravel.</li>
+    <li><a href="https://storm.digital/react-js-development-company" title="React JS Development">React JS Development</a>: fast, responsive frontends built with React.</li>
+    <li><a href="https://storm.digital/virtual-reality-development" title="AR/VR Development">AR/VR &amp; Immersive Experiences</a>: interactive experiences built for headset and web.</li>
+    <li><a href="https://storm.digital/ai-development-services" title="AI Development Services">AI Development</a>: AI-powered tools and agents built into real products.</li>
 </ul>
 
-### 📩 Let's Work Together!
-Whether you need a single contractor or a full team, I collaborate with a trusted network of designers and developers. Having worked on large-scale projects, I'm equally committed to supporting businesses of all sizes, locally in Surrey, London, and internationally.
+### 📩 Let's talk
+Whether you need a single contractor or a full team, we act as your dedicated technical development partner, hands-on from first conversation to launch, for businesses of all sizes across Surrey, London and internationally.
 
-- ✨ [Visit My Website](https://grant-bartlett.com/)
-- 📬 [Get in Touch](https://grant-bartlett.com/#contact)
-- 🤝 [Connect on LinkedIn](https://www.linkedin.com/in/grant-bartlett/)
-
-
-
-<!--
-**GrantBartlett/grantbartlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ [Visit Storm Digital](https://storm.digital/)
+- 📬 [Get in touch](https://storm.digital/#contact)
+- 🤝 [Connect on LinkedIn](https://www.linkedin.com/company/builtbystorm/)
